@@ -4,4 +4,4 @@
 
 - ✨ My Skills: **Spring Boot, Django, Node.js(React)** etc.
 
-- 📃 My Résumé URI: https://ckdgns3167.github.io/My-Resume/ (🛠개발 중...)
+- 📃 My Résumé URL: https://ckdgns3167.github.io/My-Resume/ (🛠개발 중...)
